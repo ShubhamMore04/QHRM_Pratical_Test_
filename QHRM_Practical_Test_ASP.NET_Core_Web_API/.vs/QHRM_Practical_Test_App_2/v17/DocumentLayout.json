@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|b:\\shubham\\interview practical test\\qhrm_practical_test_app_2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|b:\\shubham\\interview practical test\\qhrm_practical_test_app_2\\dal\\iproductdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|solutionrelative:dal\\iproductdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|b:\\shubham\\interview practical test\\qhrm_practical_test_app_2\\dal\\productdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|solutionrelative:dal\\productdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|b:\\shubham\\interview practical test\\qhrm_practical_test_app_2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|b:\\shubham\\interview practical test\\qhrm_practical_test_app_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|b:\\shubham\\interview practical test\\qhrm_practical_test_app_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D48B2ABA-D8FA-4B6F-941F-D0CBCA65AC87}|QHRM_Practical_Test_App_2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductDataAccess.cs",
+              "DocumentMoniker": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\DAL\\IProductDataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\IProductDataAccess.cs",
+              "ToolTip": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\DAL\\IProductDataAccess.cs",
+              "RelativeToolTip": "DAL\\IProductDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:14:39.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:39:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T07:07:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:08:38.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDataAccess.cs",
+              "DocumentMoniker": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\DAL\\ProductDataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductDataAccess.cs",
+              "ToolTip": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\DAL\\ProductDataAccess.cs",
+              "RelativeToolTip": "DAL\\ProductDataAccess.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwDYAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:24:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "B:\\Shubham\\Interview Practical Test\\QHRM_Practical_Test_App_2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:43:20.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

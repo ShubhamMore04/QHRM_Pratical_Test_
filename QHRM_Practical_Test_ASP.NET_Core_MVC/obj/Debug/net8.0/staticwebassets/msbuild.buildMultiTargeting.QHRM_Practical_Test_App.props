@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QHRM_Practical_Test_App.props" />
+</Project>

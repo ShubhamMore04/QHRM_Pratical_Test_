@@ -1,0 +1,6 @@
+@QHRM_Practical_Test_App_2_HostAddress = http://localhost:5113
+
+GET {{QHRM_Practical_Test_App_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

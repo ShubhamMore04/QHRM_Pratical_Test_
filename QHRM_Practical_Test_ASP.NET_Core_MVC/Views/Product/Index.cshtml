@@ -1,0 +1,40 @@
+﻿<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+</head>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <h1>Product Management</h1>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="d-flex justify-content-end">
+                <a href="@Url.Action("Add", "Product")" class="btn btn-success">Add Product</a>
+            </div>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Created</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.Created</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "Product", new { id = product.Id })" class="btn btn-primary"><i class="fas fa-pencil-alt"></i></a>
+                        <a href="@Url.Action("Delete", "Product", new { id = product.Id })" class="btn btn-danger"><i class="fas fa-trash-alt"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
